@@ -1,6 +1,4 @@
-# udarasanka0.github.io
+# udarasankagamage
+My First Portfolio Website in Github
 
-
-#This Site is Updating Soon...
-
-           #USG
+You Can View This page on: http://udarasanka.me or https://udarasanka0.github.io/My-Portfolio/
